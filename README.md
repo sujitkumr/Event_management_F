@@ -35,7 +35,7 @@ This project is based on [MVC](https://developer.mozilla.org/en-US/docs/Glossary
 ### 📂 Project Setup
 - Clone the Repository:
 - git clone <repository-url>
-- cd user-management-system
+
 #### Install Dependencies:
 - npm install
 - Configure Environment Variables:
