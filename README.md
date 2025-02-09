@@ -1,4 +1,5 @@
-## Event is a comprehensive event management platform built with modern web technologies. It allows users to create, delete, and view events, while providing administrators with user management capabilities.
+### Event is a comprehensive event management platform built with modern web technologies. 
+It allows users to create, delete, and view events, while providing administrators with user management capabilities.
 
 [View Site]((https://event-management-f.onrender.com/))
 
