@@ -30,7 +30,7 @@ const Footer = () => {
           <div className="space-y-4">
             <h4 className="text-lg font-semibold">Contact Us</h4>
             <ul className="space-y-2 text-sm text-gray-400">
-              <li>Email: support@eventify.com</li>
+              <li>Email: support@event.com</li>
               <li>Phone: +1 (123) 456-7890</li>
               <li>Address: 123 Event St, City, Country</li>
             </ul>
@@ -65,7 +65,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
           {/* Copyright */}
           <p className="text-sm text-gray-400">
-            &copy; {new Date().getFullYear()} Eventify. All rights reserved.
+            &copy; {new Date().getFullYear()} Event. All rights reserved.
           </p>
 
           {/* Social Media Icons */}
